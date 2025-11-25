@@ -1,5 +1,3 @@
-Jenkins Pipeline Code
-
 pipeline {
     agent { label 'DevServer' }
 
@@ -33,3 +31,4 @@ pipeline {
         }
     }
 }
+
